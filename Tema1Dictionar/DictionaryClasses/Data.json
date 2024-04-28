@@ -1,0 +1,80 @@
+[
+  {
+    "Category": "Animal",
+    "Name": "leu",
+    "Description": "Un mamifer carnivor din familia Felidae.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/leu.png"
+  },
+  {
+    "Category": "Fruct",
+    "Name": "mar",
+    "Description": "Un fruct comestibil, de obicei de culoare roșie sau verde.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/mar.png"
+  },
+  {
+    "Category": "Tara",
+    "Name": "franta",
+    "Description": "O țară situată în Europa Occidentală.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/franta.png"
+  },
+  {
+    "Category": "Fruct",
+    "Name": "banana",
+    "Description": "O banană este o alegere sănătoasă pentru o gustare.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/noImage.png"
+  },
+  {
+    "Category": "Animal",
+    "Name": "elefant",
+    "Description": "Un mamifer terestru cu o trompă lungă.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/elefant.png"
+  },
+  {
+    "Category": "Imbracaminte",
+    "Name": "pantaloni",
+    "Description": "O piesă de îmbrăcăminte care acoperă partea inferioară a corpului.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/noImage.png"
+  },
+  {
+    "Category": "Fruct",
+    "Name": "portocala",
+    "Description": "Un fruct bogat în vitamina C, de obicei de culoare portocalie.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/portocala.png"
+  },
+  {
+    "Category": "Imbracaminte",
+    "Name": "palton",
+    "Description": "Un tip de haină lungă, groasă, de obicei cu mâneci.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/palton.png"
+  },
+  {
+    "Category": "Animal",
+    "Name": "tigru",
+    "Description": "Un felid de mari dimensiuni cu dungi distinctive care nu e leu.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/tigru.png"
+  },
+  {
+    "Category": "Fruct",
+    "Name": "capsuna",
+    "Description": "Un fruct mic, roșu și dulce, des savurat în perioada de vară.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/capsuna.png"
+  },
+  {
+    "Category": "Tara",
+    "Name": "romania",
+    "Description": "Tara noastra cea de toate zilele in care traim chiar acum si ne desfasuram activitatea.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/romania.png"
+  },
+  {
+    "Category": "Job",
+    "Name": "profesor",
+    "Description": "Ii intalnim la scoala/liceu/facultate si ne ajuta sa invatam.",
+    "Image": "file:///C:/Users/andre/Desktop/sem II/MAP/Tema 1 Dictionar/Tema1Dictionar/Tema1Dictionar/Assets/profesor.png"
+  },
+  {
+    "Category": "Fruct",
+    "Name": "padsa",
+    "Description": "dasdadadadad fsdsdadda",
+    "Image": "file:///C:/Users/andre/Desktop/foto diverse/img.jpg"
+  }
+]
